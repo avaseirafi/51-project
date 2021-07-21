@@ -1,0 +1,31 @@
+h1{
+    color:#806050 
+}
+
+/*{
+    border: solid
+}*/
+
+.header{
+    background-color: #a7b4b6;
+    display: flex;
+    justify-content: space-between
+}
+
+.title{
+    background-color: #a7b4b6;
+    text-align: center;
+}
+
+.grid{
+    background-color: #a7b4b6;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.footer{
+    background-color: #a7b4b6;
+    display: flex;
+    justify-content: flex-end;
+}
